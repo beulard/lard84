@@ -506,7 +506,7 @@
       "plot": "prod/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "lard84.step",
       "svg": "screenshots/",
       "vrml": ""
     },

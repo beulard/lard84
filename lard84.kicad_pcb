@@ -80,7 +80,7 @@
 		)
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
-		(grid_origin 30.6 30.6)
+		(grid_origin 26.6 26.6)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -40789,7 +40789,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D68"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.SilkS")
 			(uuid "22b4e79c-2860-4be1-9b6f-bb055c2cbc14")
 			(effects
@@ -40801,7 +40801,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 -2.1 360)
+			(at 0 -2.1 0)
 			(layer "B.Fab")
 			(uuid "f6a7dab1-d41d-45cc-89e4-1ae51eaa39d1")
 			(effects
@@ -41068,7 +41068,7 @@
 			(uuid "0c280aeb-0841-4355-adf0-5889d5e30b7b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.Fab")
 			(uuid "f51410ff-2f3c-4874-8e3b-bd350ca41b09")
 			(effects
@@ -44737,7 +44737,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D78"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.SilkS")
 			(uuid "41a702d4-5634-4f1d-a99e-2ab99551b7a5")
 			(effects
@@ -44749,7 +44749,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 -2.1 360)
+			(at 0 -2.1 0)
 			(layer "B.Fab")
 			(uuid "49eb6d3f-c778-4cc7-8b7d-0eb5a609326c")
 			(effects
@@ -45016,7 +45016,7 @@
 			(uuid "97fde9d6-eff4-4a85-9875-3eae5609a2b3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.Fab")
 			(uuid "31f244c0-9457-4b18-9ec7-187fff09f604")
 			(effects
@@ -56218,7 +56218,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "14626b71-c720-4e45-9e74-44198751d1ac")
 			(effects
@@ -56397,7 +56397,7 @@
 			(uuid "aa3cda92-fa7c-485f-8843-f2913786af47")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "60c73820-2fe4-45fc-8b0a-0ea1dce7f916")
 			(effects
@@ -59833,7 +59833,7 @@
 			)
 		)
 		(property "Value" "150"
-			(at 0 1.5 360)
+			(at 0 1.5 0)
 			(layer "B.Fab")
 			(uuid "3bcea9f2-b508-42b4-a689-12dc3bff1f87")
 			(effects
@@ -59992,7 +59992,7 @@
 			(uuid "cc036211-e893-4b1f-bd6f-5badc355b518")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "24e4300f-8f39-455b-9c6d-7deaff8d920d")
 			(effects
