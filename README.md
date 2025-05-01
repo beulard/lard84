@@ -24,7 +24,7 @@ for the associated ![low-profile stabilizers](https://www.gateron.com/products/g
 
 ## Plate
 
-The top plate supports the switches, adds rigidity and gives a nice finish. It was made in Fusion360.
+The top plate (plate v38.f3z) supports the switches, adds rigidity and gives a nice finish. It was made in Fusion360.
 It is a relatively simple design with holes for each key, two holes for the Backspace, Space, Enter and LShift stabilizers, and 10 mounting holes for screws.
 
 One key challenge was to figure out the placement and shape for the stabilizer holes, because of poor documentation and imprecise datasheets.
