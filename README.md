@@ -2,9 +2,11 @@
 
 A custom 75% ansi low-profile keyboard.
 
-- [PCB](#PCB)
-- [Plate](#Plate)
-- [Case](#Case)
+- [PCB](#pcb)
+- [Plate](#plate)
+- [Case](#case)
+- [Acknowledgments](#acknowledgments)
+- [Extra pictures](#extra-pictures)
 
 ![Case, PCB and plate assembled](screenshots/case-v6-with-pcb-and-plate.png)
 
@@ -32,9 +34,12 @@ for the associated [low-profile stabilizers](https://www.gateron.com/products/ga
 ## Plate
 
 The top plate (plate v38.f3z) supports the switches, adds rigidity and gives a nice finish. It was made in Fusion360.
-It is a relatively simple design with holes for each key, two holes for the Backspace, Space, Enter and LShift stabilizers, and 10 mounting holes for screws.
 
-One key challenge was to figure out the placement and shape for the stabilizer holes, because of poor documentation and imprecise datasheets.
+It is a relatively simple design with a square cutout for each key, two extra cutouts around the Backspace, Space, Enter and LShift keys
+for their plate-mounted stabilizers, and 10 mounting holes for screws.
+
+One key challenge was to figure out the placement and shape for the stabilizer cutouts, because of insufficient information on
+the datasheets from the manufacturer.
 
 ![Plate in Fusion360](screenshots/plate-and-pcb-face.png)
 ![Plate irl](pictures/plate-with-switches-and-stabs.jpg)
@@ -43,7 +48,7 @@ One key challenge was to figure out the placement and shape for the stabilizer h
 
 The case (case.FCStd) is a 3D-printable plastic enclosing and two feet for a more comfortable typing angle.
 
-The enclosing features mounting holes for the PCB and plate, and anti-warping structural elements.
+The enclosing features mounting posts for the PCB and plate, and anti-warping structural elements.
 
 ![Plate in Fusion360](screenshots/case-v6-bare.png)
 ![Plate irl](pictures/case-empty.jpg)
