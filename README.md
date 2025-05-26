@@ -14,7 +14,8 @@ The assembly is done in (sort of) [sandwich mount style](https://thomasbaart.nl/
 Compared to sandwich mount, there is no top frame (the plate sits at the top), and
 it is screwed into the case's mounting posts from above.
 
-Assembly in progress... pic to follow. <!-- TODO(mdu) -->
+Here it is finally assembled:
+![The lard84 fully assembled](pictures/assembled-1.jpg)
 
 ## PCB
 
@@ -61,6 +62,7 @@ Thanks to these open source repos for providing vital KiCad symbol/footprint lib
 
 ## Extra pictures
 
+![Another assembled pic](pictures/assembled-2.jpg)
 ![Front of plates](pictures/plate-aesthetic-front.jpg)
 ![Back of plate](pictures/plate-aesthetic-back.jpg)
 ![PCB back](pictures/pcb-back.jpg)
